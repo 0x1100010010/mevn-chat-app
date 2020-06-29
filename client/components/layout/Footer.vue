@@ -2,12 +2,12 @@
     <footer class="footer section__footer">
         <div class="footer__content">
             <div class="footer__left">
-                <span>Copyright &copy; 2018 Lu-Vuong Le</span>
+                <span>UMT University Project By,</span>
             </div>
             <div class="footer__right">
-                <span>Created under the MIT License</span>
+                <span>Sohaib Asif</span>
                 <a
-                    href="https://github.com/luvuong-le/astro-chat"
+                    href="https://github.com/M-Adeel-Danish/mevn-chat-app"
                     target="_blank"
                     class="nav__link"
                 >
